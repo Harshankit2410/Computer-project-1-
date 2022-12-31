@@ -1,1 +1,2 @@
-# Computer-project-1-
+# ComputerProject
+Computer Project
